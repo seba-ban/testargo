@@ -1,0 +1,4 @@
+dependencies:
+- name: minio
+  version: 4.0.8
+  repository: https://charts.min.io/
