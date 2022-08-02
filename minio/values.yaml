@@ -1,0 +1,7 @@
+minio:
+  replicas: 1
+  mode: standalone
+  rootUser: admin
+  rootPassword: secretsecretsecret
+  persistence:
+    enabled: false
