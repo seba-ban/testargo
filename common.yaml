@@ -1,1 +1,2 @@
-fullnameOverride: lala
+redis:
+  fullnameOverride: lala
